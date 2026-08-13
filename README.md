@@ -44,6 +44,7 @@ ensuring the security and maximum performance.
   <a href="https://www.linkedin.com/in/nait-saidi-rayane-179642315/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/nait2346/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:nr_nait_saidi@esi.dz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rayanenait-portfolio-flame.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="portfolio" /></a>
 </p>
 
 ---
